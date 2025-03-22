@@ -1,27 +1,63 @@
 <h1 align="center">Hi 👋, I'm Raduni Thesanya</h1>
-<h3 align="center">I’m a student exploring the world of software engineering</h3>
+<h3 align="center">A Passionate Student Exploring the World of Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radun111&label=Profile%20views&color=0e75b6&style=flat" alt="radun111" /> </p>
 
-- 🌱 I’m currently learning **React, java, and UI/UX Design**
+---
 
-- 💬 Ask me about **java**
+### 🌱 **What I’m Currently Learning**
+- **React** - Building dynamic and responsive user interfaces.
+- **Java** - Mastering object-oriented programming and backend development.
+- **UI/UX Design** - Creating intuitive and visually appealing designs.
 
-- 📫 How to reach me **thesanyaraduni@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 💬 **Ask Me About**
+- **Java** - From basics to advanced concepts.
+- **Web Development** - HTML, CSS, JavaScript, and React.
+- **UI/UX Design** - Figma and design principles.
+
+---
+
+### 📫 **How to Reach Me**
+- **Email**: [thesanyaraduni@gmail.com](mailto:thesanyaraduni@gmail.com)
+- **LinkedIn**: [Raduni Thesanya](https://linkedin.com/in/raduni-thesanya)
+
+---
+
+### 🛠️ **Languages and Tools**
 <p align="left">
-<a href="https://linkedin.com/in/raduni thesanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raduni thesanya" height="30" width="40" /></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Radun111"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Radun111" /></a></p><br><br>
+### 📊 **GitHub Stats**
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=radun111&show_icons=true&locale=en&theme=radical" alt="radun111" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radun111&theme=radical" alt="radun111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radun111&show_icons=true&locale=en&layout=compact&theme=radical" alt="radun111" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radun111&show_icons=true&locale=en&layout=compact" alt="radun111" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radun111&show_icons=true&locale=en" alt="radun111" /></p>
+### ☕ **Support Me**
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Radun111"> 
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Radun111" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radun111&" alt="radun111" /></p>
+---
+
+
+
+<p align="center">✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. ✨</p>
