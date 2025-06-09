@@ -21,8 +21,7 @@
 
 ### 📫 **How to Reach Me**
 - **Email**: [thesanyaraduni@gmail.com](mailto:thesanyaraduni@gmail.com)
-- **LinkedIn**: [Raduni Thesanya](https://linkedin.com/in/raduni-thesanya)
-
+- **LinkedIn**: [https://www.linkedin.com/in/raduni-thesanya/]
 ---
 
 ### 🛠️ **Languages and Tools**
