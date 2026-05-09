@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Replace the URL below with the link to your avatar image -->
-  <img src="https://raw.githubusercontent.com/radun111/radun111/main/avatar.png" width="150" alt="Raduni Thesanya" />
+  <img src="https://raw.githubusercontent.com/radun111/radun111/main/profile-banner.png" alt="Raduni Thesanya Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Raduni Thesanya</h1>
