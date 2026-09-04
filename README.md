@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=230&section=header&text=Hi%20👋,%20I'm%20Raduni%20Thesanya&fontSize=38&fontColor=4A2545&fontAlignY=38&desc=Technical%20Operations%20•%20Software%20Engineering%20Student%20•%20Java%20%26%20Database%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=230&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Raduni%20Thesanya&fontSize=38&fontColor=4A2545&fontAlignY=38&desc=Technical%20Operations%20•%20Software%20Engineering%20Student%20•%20Java%20%26%20Database%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Detail-driven+%26+accuracy-obsessed;Currently+deepening+my+Java+%2B+database+skills;Building+clean%2C+reliable+systems;Let's+build+something+beautiful+together+%E2%9C%A8&font=Fira%20Code&center=true&width=560&height=45&color=B24592&vCenter=true&size=18&pause=1200"/>
 
