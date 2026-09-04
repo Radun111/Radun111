@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=230&section=header&text=Hi%20👋,%20I'm%20Raduni%20Thesanya&fontSize=38&fontColor=4A2545&fontAlignY=38&desc=Software%20Engineer%20•%20UI/UX%20Enthusiast%20•%20Builder%20of%20Beautiful%20Things&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=230&section=header&text=Hi%20👋,%20I'm%20Raduni%20Thesanya&fontSize=38&fontColor=4A2545&fontAlignY=38&desc=Data%20Entry%20Specialist%20•%20Technical%20Operations%20•%20Software%20Engineering%20Student&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Crafting+clean+code+%26+dreamy+interfaces;Currently+leveling+up+in+React+%2B+Java;Always+exploring+UI%2FUX+design;Let's+build+something+beautiful+together+%E2%9C%A8&font=Fira%20Code&center=true&width=560&height=45&color=B24592&vCenter=true&size=20&pause=1200"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=High-speed+data+entry+%2660%2B+WPM;Currently+deepening+my+Java+%2B+database+skills;Building+accuracy+into+every+dataset;Let's+build+something+beautiful+together+%E2%9C%A8&font=Fira%20Code&center=true&width=560&height=45&color=B24592&vCenter=true&size=18&pause=1200"/>
 
 <br/>
 
@@ -16,24 +16,40 @@
 
 ## 🌸 About Me
 
-I'm a software engineer who loves turning ideas into scalable applications **and** interfaces that feel good to use. My world sits right at the intersection of clean code and thoughtful design.
+I'm a Data Entry Specialist working in technical operations, with a growing focus on Java development and database systems. I care about accuracy, clean data, and building a strong software engineering foundation alongside my day-to-day work.
 
 ```yaml
-role: "Software Engineer"
-focus: ["Frontend Development", "Backend Systems", "UI/UX Design"]
-currently_learning: ["React", "Java"]
-exploring: "Design systems & user-centered interfaces"
-goal: "Build scalable applications that make a difference"
-fun_fact: "Turns coffee into code and ideas into reality ☕️"
+role: "Data Entry Specialist | Technical Operations"
+skills: ["High-speed Data Entry (60+ WPM)", "Excel (Pivot Tables, VLOOKUP)", "Google Workspace", "Database Management", "Java Programming"]
+currently_learning: ["Java (CMJD Program @ IJSE)", "Software Engineering (BTEC HND @ ESOFT)"]
+certifications: ["Comprehensive Master Java Developer (CMJD)"]
+languages: ["English (Fluent)", "Sinhala (Native)", "Japanese (Beginner)"]
+fun_fact: "Exceptional attention to detail, powered by a lot of Excel ✨"
 ```
 
 <br/>
 
-## 💗 Tech Stack
+## 💗 Currently Learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,react,js,nodejs,python,cs,mysql,html,css,figma&theme=light" />
+<img src="https://img.shields.io/badge/CMJD_Program-IJSE-E75480?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HND_in_Computing-ESOFT_Metro_Campus-B784B7?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-E75480?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-D8859E?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-B784B7?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Workspace-CB90C1?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-A98AB0?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-6B4664?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -43,10 +59,10 @@ fun_fact: "Turns coffee into code and ideas into reality ☕️"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Radun111&show_icons=true&theme=transparent&hide_border=true&title_color=B24592&icon_color=D8859E&text_color=6B4664&bg_color=00000000&ring_color=D8B4E2" width="49%"/>
+<img src="https://github-readme-stats-tan-rho-57.vercel.app/api?username=Radun111&show_icons=true&theme=transparent&hide_border=true&title_color=B24592&icon_color=D8859E&text_color=6B4664&bg_color=00000000&ring_color=D8B4E2" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Radun111&theme=transparent&hide_border=true&background=00000000&ring=D8859E&fire=B24592&currStreakLabel=B24592&sideLabels=6B4664&dates=A98AB0&currStreakNum=4A2545&sideNums=4A2545" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radun111&layout=compact&theme=transparent&hide_border=true&title_color=B24592&text_color=6B4664&bg_color=00000000&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats-tan-rho-57.vercel.app/api/top-langs/?username=Radun111&layout=compact&theme=transparent&hide_border=true&title_color=B24592&text_color=6B4664&bg_color=00000000&langs_count=8" width="49%"/>
 
 </div>
 
@@ -76,7 +92,7 @@ fun_fact: "Turns coffee into code and ideas into reality ☕️"
 
 <div align="center">
 
-I'm always open to collaborating on projects, chatting about design systems, or geeking out over a good UI.
+I'm always open to collaborating on projects, chatting about clean data practices, or geeking out over Java.
 
 <a href="https://www.linkedin.com/in/raduni-thesanya/"><img src="https://img.shields.io/badge/-Raduni%20Thesanya-D8B4E2?style=flat-square&logo=linkedin&logoColor=4A2545"/></a>
 <a href="mailto:thesanyaraduni@gmail.com"><img src="https://img.shields.io/badge/-thesanyaraduni@gmail.com-E4A0C7?style=flat-square&logo=gmail&logoColor=4A2545"/></a>
