@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=230&section=header&text=Hi%20👋,%20I'm%20Raduni%20Thesanya&fontSize=38&fontColor=4A2545&fontAlignY=38&desc=Data%20Entry%20Specialist%20•%20Technical%20Operations%20•%20Software%20Engineering%20Student&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=230&section=header&text=Hi%20👋,%20I'm%20Raduni%20Thesanya&fontSize=38&fontColor=4A2545&fontAlignY=38&desc=Technical%20Operations%20•%20Software%20Engineering%20Student%20•%20Java%20%26%20Database%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=High-speed+data+entry+%2660%2B+WPM;Currently+deepening+my+Java+%2B+database+skills;Building+accuracy+into+every+dataset;Let's+build+something+beautiful+together+%E2%9C%A8&font=Fira%20Code&center=true&width=560&height=45&color=B24592&vCenter=true&size=18&pause=1200"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Detail-driven+%26+accuracy-obsessed;Currently+deepening+my+Java+%2B+database+skills;Building+clean%2C+reliable+systems;Let's+build+something+beautiful+together+%E2%9C%A8&font=Fira%20Code&center=true&width=560&height=45&color=B24592&vCenter=true&size=18&pause=1200"/>
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 ## 🌸 About Me
 
-I'm a Data Entry Specialist working in technical operations, with a growing focus on Java development and database systems. I care about accuracy, clean data, and building a strong software engineering foundation alongside my day-to-day work.
+I work in technical operations, with a growing focus on Java development and database systems. I care about accuracy, clean data, and building a strong software engineering foundation.
 
 ```yaml
-role: "Data Entry Specialist | Technical Operations"
-skills: ["High-speed Data Entry (60+ WPM)", "Excel (Pivot Tables, VLOOKUP)", "Google Workspace", "Database Management", "Java Programming"]
+role: "Technical Operations | Software Engineering Student"
+skills: ["Excel (Pivot Tables, VLOOKUP)", "Google Workspace", "Database Management", "Java Programming"]
 currently_learning: ["Java (CMJD Program @ IJSE)", "Software Engineering (BTEC HND @ ESOFT)"]
 certifications: ["Comprehensive Master Java Developer (CMJD)"]
 languages: ["English (Fluent)", "Sinhala (Native)", "Japanese (Beginner)"]
@@ -63,26 +63,6 @@ fun_fact: "Exceptional attention to detail, powered by a lot of Excel ✨"
 <img src="https://streak-stats.demolab.com/?user=Radun111&theme=transparent&hide_border=true&background=00000000&ring=D8859E&fire=B24592&currStreakLabel=B24592&sideLabels=6B4664&dates=A98AB0&currStreakNum=4A2545&sideNums=4A2545" width="49%"/>
 
 <img src="https://github-readme-stats-tan-rho-57.vercel.app/api/top-langs/?username=Radun111&layout=compact&theme=transparent&hide_border=true&title_color=B24592&text_color=6B4664&bg_color=00000000&langs_count=8" width="49%"/>
-
-</div>
-
-<br/>
-
-## 🌷 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Radun111&bg_color=00000000&color=6B4664&line=B24592&point=4A2545&area=true&area_color=D8B4E2&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Radun111&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
