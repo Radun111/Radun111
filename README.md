@@ -44,7 +44,7 @@ fun_fact: "Turns coffee into code and ideas into reality ☕️"
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Radun111&show_icons=true&theme=transparent&hide_border=true&title_color=B24592&icon_color=D8859E&text_color=6B4664&bg_color=00000000&ring_color=D8B4E2" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Radun111&theme=transparent&hide_border=true&background=00000000&ring=D8859E&fire=B24592&currStreakLabel=B24592&sideLabels=6B4664&dates=A98AB0&currStreakNum=4A2545&sideNums=4A2545" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Radun111&theme=transparent&hide_border=true&background=00000000&ring=D8859E&fire=B24592&currStreakLabel=B24592&sideLabels=6B4664&dates=A98AB0&currStreakNum=4A2545&sideNums=4A2545" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radun111&layout=compact&theme=transparent&hide_border=true&title_color=B24592&text_color=6B4664&bg_color=00000000&langs_count=8" width="49%"/>
 
@@ -56,7 +56,7 @@ fun_fact: "Turns coffee into code and ideas into reality ☕️"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Radun111&bg_color=00000000&color=6B4664&line=B24592&point=4A2545&area=true&area_color=D8B4E2&hide_border=true&custom_title=Raduni's%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Radun111&bg_color=00000000&color=6B4664&line=B24592&point=4A2545&area=true&area_color=D8B4E2&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
