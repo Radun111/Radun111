@@ -18,16 +18,7 @@
 
 I'm an aspiring software engineer with a growing focus on Java development and database systems. I care about writing clean, reliable code and building a strong software engineering foundation.
 
-```yaml
-role: "Aspiring Software Engineer | Java Developer"
-skills: ["Java Programming", "Database Management (SQL)", "Excel (Pivot Tables, VLOOKUP)", "Git & GitHub"]
-currently_learning: ["Java (CMJD Program @ IJSE)", "Software Engineering (BTEC HND @ ESOFT)"]
-certifications: ["Comprehensive Master Java Developer (CMJD)"]
-languages: ["English (Fluent)", "Sinhala (Native)", "Japanese (Beginner)"]
-fun_fact: "Exceptional attention to detail, powered by a lot of coffee and Excel ✨"
-```
 
-<br/>
 
 ## 💗 Currently Learning
 
